@@ -58,13 +58,12 @@ I'm always interested in exploring new technologies, discussing ideas, or collab
 * 💼 [LinkedIn](https://linkedin.com/in/aamir-sohail)
 * 🤗 [Hugging Face](https://huggingface.co/AamirAli123)
 * 🌐 [Portfolio](https://aamirsohail.dev/)
-* 📧 Email: amirsohailali123@gmail.com
-
-## 📊 GitHub Stats
+* 📧 Email: your-email@example.com
 
 <p>
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=USTAADCOM&show_icons=true&theme=dark&hide_border=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=USTAADCOM&layout=compact&theme=dark&hide_border=true" />
+  <img src="https://img.shields.io/github/followers/USTAADCOM?style=for-the-badge&logo=github&label=Followers" />
+  <img src="https://img.shields.io/badge/Repositories-39-blue?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/Open%20to-Collaboration-success?style=for-the-badge" />
 </p>
 
 Thank you for visiting my profile. I look forward to building intelligent, impactful AI products with modern practices and innovative solutions. 🚀
